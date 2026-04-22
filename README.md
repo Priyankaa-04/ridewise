@@ -1,5 +1,5 @@
 # RideWise – Ride Comparison App
-RideWise is an Android application that compares ride options like Cab, Auto, and Bike.
+RideWise is an Android application that compares ride options like Cab, Auto, and Bike from different apps and displays it in one place.
 
 Features:
 - Google Maps integration
